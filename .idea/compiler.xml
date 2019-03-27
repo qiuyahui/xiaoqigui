@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="advert" />
+        <module name="business_manage" />
+        <module name="business_system" />
+        <module name="comment_system" />
+        <module name="coupon_system" />
+        <module name="menu_system" />
+        <module name="order_system" />
+        <module name="payment_system" />
+        <module name="shopping" />
+        <module name="shopping_system" />
+        <module name="user_system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="advert" target="1.8" />
+      <module name="business_manage" target="1.8" />
+      <module name="business_system" target="1.8" />
+      <module name="comment_system" target="1.8" />
+      <module name="coupon_system" target="1.8" />
+      <module name="menu_system" target="1.8" />
+      <module name="order_system" target="1.8" />
+      <module name="payment_system" target="1.8" />
+      <module name="shopping" target="1.8" />
+      <module name="shopping_system" target="1.8" />
+      <module name="user_system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="advert" options="" />
+      <module name="business_manage" options="-parameters" />
+      <module name="business_system" options="-parameters" />
+      <module name="comment_system" options="-parameters" />
+      <module name="coupon_system" options="-parameters" />
+      <module name="menu_system" options="-parameters" />
+      <module name="order_system" options="-parameters" />
+      <module name="payment_system" options="-parameters" />
+      <module name="shopping" options="-parameters" />
+      <module name="shopping_system" options="-parameters" />
+      <module name="user_system" options="-parameters" />
+    </option>
+  </component>
+</project>

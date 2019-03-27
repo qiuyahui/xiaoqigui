@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/advert_other_system/advert.iml" filepath="$PROJECT_DIR$/advert_other_system/advert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business_manage/business_manage.iml" filepath="$PROJECT_DIR$/business_manage/business_manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business_system/business_system.iml" filepath="$PROJECT_DIR$/business_system/business_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comment_system/comment_system.iml" filepath="$PROJECT_DIR$/comment_system/comment_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon_system/coupon_system.iml" filepath="$PROJECT_DIR$/coupon_system/coupon_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu_system/menu_system.iml" filepath="$PROJECT_DIR$/menu_system/menu_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order_system/order_system.iml" filepath="$PROJECT_DIR$/order_system/order_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment_system/payment_system.iml" filepath="$PROJECT_DIR$/payment_system/payment_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping_manage/shopping.iml" filepath="$PROJECT_DIR$/shopping_manage/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping_system/shopping_system.iml" filepath="$PROJECT_DIR$/shopping_system/shopping_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_system/user_system.iml" filepath="$PROJECT_DIR$/user_system/user_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xiaoqigui_new.iml" filepath="$PROJECT_DIR$/.idea/xiaoqigui_new.iml" />
+    </modules>
+  </component>
+</project>
